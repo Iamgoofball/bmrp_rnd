@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "conveyorbelt/conveyorbelt"
+	$surfaceprop plastic
+}

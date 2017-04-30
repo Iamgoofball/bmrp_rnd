@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"            "Manufacturing And Research"
+	"version"         "3.71d"
+	"up_date"         "00/00/00"
+	"author_name"     "Iamgoofball"
+}
